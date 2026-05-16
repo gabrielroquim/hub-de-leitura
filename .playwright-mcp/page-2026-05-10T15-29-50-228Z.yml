@@ -1,0 +1,134 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link "" [ref=e8] [cursor=pointer]:
+              - /url: /index.html
+              - generic [ref=e9]: 
+            - generic [ref=e10]:
+              - heading "Hub de Leitura" [level=1] [ref=e11]
+              - paragraph [ref=e12]: Seu Portal do Conhecimento
+          - text: 
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "HOME" [ref=e16] [cursor=pointer]:
+                - /url: /index.html
+            - listitem [ref=e17]:
+              - link "CESTA DE LIVROS 0" [ref=e18] [cursor=pointer]:
+                - /url: /basket.html
+                - text: CESTA DE LIVROS
+                - generic [ref=e19]: "0"
+            - listitem [ref=e20]:
+              - link " ENTRAR" [ref=e21] [cursor=pointer]:
+                - /url: /login.html
+                - generic [ref=e22]: 
+                - generic [ref=e23]: ENTRAR
+  - generic [ref=e24]:
+    - main [ref=e25]:
+      - navigation "breadcrumb" [ref=e26]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - link "Home" [ref=e29] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e30]:
+            - text: /
+            - link "Catálogo" [ref=e31] [cursor=pointer]:
+              - /url: /catalog.html
+          - listitem [ref=e32]: / Carregando...
+      - text:      
+      - generic [ref=e34]:
+        - generic [ref=e35]: 
+        - heading "Livro não encontrado" [level=5] [ref=e36]
+        - paragraph [ref=e37]: O livro que você está procurando não foi encontrado.
+        - link "Voltar ao Catálogo" [ref=e38] [cursor=pointer]:
+          - /url: /catalog.html
+    - contentinfo [ref=e39]:
+      - contentinfo [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - heading " Hub de Leitura" [level=5] [ref=e44]:
+                - generic [ref=e45]: 
+                - text: Hub de Leitura
+              - paragraph [ref=e46]:
+                - text: Facilitando o acesso ao Conhecimento.
+                - text: (Sistema fictício de treinamento para QA)
+              - generic [ref=e47]:
+                - link "" [ref=e48] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e49]: 
+                - link "" [ref=e50] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e51]: 
+                - link "" [ref=e52] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e53]: 
+                - link "" [ref=e54] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/fabio10
+                  - generic [ref=e55]: 
+            - generic [ref=e56]:
+              - heading "LINKS RÁPIDOS:" [level=6] [ref=e57]
+              - list [ref=e58]:
+                - listitem [ref=e59]:
+                  - link " Catálogo" [ref=e60] [cursor=pointer]:
+                    - /url: /catalog.html
+                    - generic [ref=e61]: 
+                    - text: Catálogo
+                - listitem [ref=e62]:
+                  - link " Minhas Reservas" [ref=e63] [cursor=pointer]:
+                    - /url: /dashboard.html
+                    - generic [ref=e64]: 
+                    - text: Minhas Reservas
+                - listitem [ref=e65]:
+                  - link " Minha Cesta" [ref=e66] [cursor=pointer]:
+                    - /url: /basket.html
+                    - generic [ref=e67]: 
+                    - text: Minha Cesta
+                - listitem [ref=e68]:
+                  - link " Ajuda" [ref=e69] [cursor=pointer]:
+                    - /url: index.html#contact
+                    - generic [ref=e70]: 
+                    - text: Ajuda
+            - generic [ref=e71]:
+              - heading "CONTATO:" [level=6] [ref=e72]
+              - list [ref=e73]:
+                - listitem [ref=e74]:
+                  - generic [ref=e75]: 
+                  - text: Biblioteca Central
+                - listitem [ref=e76]:
+                  - generic [ref=e77]: 
+                  - text: (11) 3333-4444
+                - listitem [ref=e78]:
+                  - generic [ref=e79]: 
+                  - text: contato@hubdeleitura.com
+                - listitem [ref=e80]:
+                  - generic [ref=e81]: 
+                  - text: "Seg-Sex: 8h às 18h"
+            - generic [ref=e82]:
+              - heading "HORÁRIOS:" [level=6] [ref=e83]
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - generic [ref=e86]: "• Segunda:"
+                  - generic [ref=e87]: 8h-18h
+                - generic [ref=e88]:
+                  - generic [ref=e89]: "• Terça-Feira:"
+                  - generic [ref=e90]: 8h-20h
+                - generic [ref=e91]:
+                  - generic [ref=e92]: "• Sábado:"
+                  - generic [ref=e93]: 9h-15h
+                - generic [ref=e94]:
+                  - generic [ref=e95]: "• Domingo:"
+                  - generic [ref=e96]: Fechado
+          - separator [ref=e97]
+          - generic [ref=e98]:
+            - paragraph [ref=e100]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+            - generic [ref=e102]:
+              - text: Desenvolvido com
+              - generic [ref=e103]: 
+              - text: por
+              - link " Fábio Araújo" [ref=e104] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e105]: 
+                - text: Fábio Araújo

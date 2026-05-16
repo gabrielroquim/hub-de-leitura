@@ -1,0 +1,291 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link "" [ref=e8] [cursor=pointer]:
+              - /url: /index.html
+              - generic [ref=e9]: 
+            - generic [ref=e10]:
+              - heading "Hub de Leitura" [level=1] [ref=e11]
+              - paragraph [ref=e12]: Seu Portal do Conhecimento
+          - text: 
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "HOME" [ref=e16] [cursor=pointer]:
+                - /url: /index.html
+            - listitem [ref=e17]:
+              - link "CESTA DE LIVROS 1" [ref=e373] [cursor=pointer]:
+                - /url: /basket.html
+                - text: CESTA DE LIVROS
+                - generic [ref=e19]: "1"
+            - listitem [ref=e20]:
+              - link " ENTRAR" [ref=e21] [cursor=pointer]:
+                - /url: /login.html
+                - generic [ref=e22]: 
+                - generic [ref=e23]: ENTRAR
+  - generic [ref=e24]:
+    - generic [ref=e27]:
+      - heading "Conheça Nosso Acervo" [level=2] [ref=e28]
+      - paragraph [ref=e29]: Explore, aprenda e transforme sua vida através da leitura.
+    - main [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e35]:
+          - generic [ref=e37]: 
+          - textbox "Buscar por título, autor ou ISBN…" [ref=e38]
+        - generic [ref=e39]:
+          - combobox [ref=e41]:
+            - option "Todas as Categorias"
+            - option "Biografia (1)"
+            - option "Estratégia (1)"
+            - option "Fantasia (5)" [selected]
+            - option "Ficção (7)"
+            - option "Ficção Clássica (1)"
+            - option "Geral (1)"
+            - option "Infantil (1)"
+            - option "Mistério (1)"
+            - option "Poesia (1)"
+            - option "Realismo Mágico (1)"
+            - option "Romance (3)"
+          - combobox [ref=e43]:
+            - option "Todas as Editoras" [selected]
+            - option "Companhia das Letras"
+            - option "Editora Agir"
+            - option "Editora Exemplo"
+            - option "Editora Intrínseca"
+            - option "Editora José Olympio"
+            - option "Editora Martin Claret"
+            - option "Editora Nova Fronteira"
+            - option "Editora Record"
+            - option "Editora Rocco"
+            - option "Editora Sextante"
+            - option "Editora do Autor"
+            - option "HarperCollins Brasil"
+          - combobox [ref=e45]:
+            - option "Todos os livros"
+            - option "Apenas disponíveis" [selected]
+            - option "Indisponíveis"
+      - generic [ref=e379]:
+        - generic [ref=e380]:
+          - generic [ref=e381]: 
+          - strong [ref=e382]: "Filtros ativos:"
+          - text: "Categoria: Fantasia • Disponibilidade: Disponíveis"
+        - button " Remover todos" [ref=e383] [cursor=pointer]:
+          - generic [ref=e384]: 
+          - text: Remover todos
+      - generic [ref=e48]:
+        - heading " Exibindo 5 de 5 livros" [level=5] [ref=e658]:
+          - generic [ref=e50]: 
+          - text: Exibindo 5 de 5 livros
+        - group "Visualização" [ref=e51]:
+          - button "" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: 
+          - button "" [ref=e54] [cursor=pointer]:
+            - generic [ref=e55]: 
+      - generic [ref=e56]:
+        - generic [ref=e660]:
+          - generic [ref=e661]:
+            - img "Harry Potter e a Pedra Filosofal" [ref=e662]
+            - generic [ref=e664]: "9"
+          - generic [ref=e665]:
+            - heading "Harry Potter e a Pedra Filosofal" [level=5] [ref=e666]:
+              - link "Harry Potter e a Pedra Filosofal" [ref=e667] [cursor=pointer]:
+                - /url: /book-details.html?id=10
+            - paragraph [ref=e668]:
+              - generic [ref=e669]: 
+              - text: J.K. Rowling
+            - paragraph [ref=e670]:
+              - generic [ref=e671]: 
+              - text: Fantasia
+            - paragraph [ref=e672]: O primeiro livro da saga Harry Potter apresenta o jovem bruxo que descobre seu passado mágico e embarca em aventuras na Escola de Magia de Hogwarts. Um clássico moderno da literatura infantojuvenil.
+            - generic [ref=e674]:
+              - button " Adicionar à Cesta" [ref=e675] [cursor=pointer]:
+                - generic [ref=e676]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e677] [cursor=pointer]:
+                - generic [ref=e678]: 
+                - text: Ver Detalhes
+        - generic [ref=e680]:
+          - generic [ref=e681]:
+            - img "O Hobbit" [ref=e682]
+            - generic [ref=e684]: "3"
+          - generic [ref=e685]:
+            - heading "O Hobbit" [level=5] [ref=e686]:
+              - link "O Hobbit" [ref=e687] [cursor=pointer]:
+                - /url: /book-details.html?id=12
+            - paragraph [ref=e688]:
+              - generic [ref=e689]: 
+              - text: J.R.R. Tolkien
+            - paragraph [ref=e690]:
+              - generic [ref=e691]: 
+              - text: Fantasia
+            - paragraph [ref=e692]: Bilbo Bolseiro embarca em uma jornada inesperada com anões em busca de um tesouro guardado por um dragão. Uma introdução ao universo da Terra Média e às aventuras épicas de Tolkien.
+            - generic [ref=e694]:
+              - button " Adicionar à Cesta" [ref=e695] [cursor=pointer]:
+                - generic [ref=e696]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e697] [cursor=pointer]:
+                - generic [ref=e698]: 
+                - text: Ver Detalhes
+        - generic [ref=e700]:
+          - generic [ref=e701]:
+            - img "O Ladrão de Raios" [ref=e702]
+            - generic [ref=e704]: "7"
+          - generic [ref=e705]:
+            - heading "O Ladrão de Raios" [level=5] [ref=e706]:
+              - link "O Ladrão de Raios" [ref=e707] [cursor=pointer]:
+                - /url: /book-details.html?id=22
+            - paragraph [ref=e708]:
+              - generic [ref=e709]: 
+              - text: Rick Riordan
+            - paragraph [ref=e710]:
+              - generic [ref=e711]: 
+              - text: Fantasia
+            - paragraph [ref=e712]: Percy Jackson descobre ser filho de Poseidon e embarca em uma aventura para impedir uma guerra entre os deuses do Olimpo. Uma mistura envolvente de mitologia grega e aventura moderna.
+            - generic [ref=e714]:
+              - button " Adicionar à Cesta" [ref=e715] [cursor=pointer]:
+                - generic [ref=e716]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e717] [cursor=pointer]:
+                - generic [ref=e718]: 
+                - text: Ver Detalhes
+        - generic [ref=e720]:
+          - generic [ref=e721]:
+            - 'img "O Senhor dos Anéis: A Sociedade do Anel" [ref=e722]'
+            - generic [ref=e724]: "2"
+          - generic [ref=e725]:
+            - 'heading "O Senhor dos Anéis: A Sociedade do Anel" [level=5] [ref=e726]':
+              - 'link "O Senhor dos Anéis: A Sociedade do Anel" [ref=e727] [cursor=pointer]':
+                - /url: /book-details.html?id=5
+            - paragraph [ref=e728]:
+              - generic [ref=e729]: 
+              - text: J.R.R. Tolkien
+            - paragraph [ref=e730]:
+              - generic [ref=e731]: 
+              - text: Fantasia
+            - paragraph [ref=e732]: Primeiro volume da trilogia O Senhor dos Anéis, acompanha Frodo Bolseiro em sua jornada para destruir o Um Anel. Uma narrativa épica repleta de magia, amizade, coragem e batalhas memoráveis.
+            - generic [ref=e734]:
+              - button " Adicionar à Cesta" [ref=e735] [cursor=pointer]:
+                - generic [ref=e736]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e737] [cursor=pointer]:
+                - generic [ref=e738]: 
+                - text: Ver Detalhes
+        - generic [ref=e740]:
+          - generic [ref=e741]:
+            - 'img "O Senhor dos Anéis: As Duas Torres" [ref=e742]'
+            - generic [ref=e744]: "2"
+          - generic [ref=e745]:
+            - 'heading "O Senhor dos Anéis: As Duas Torres" [level=5] [ref=e746]':
+              - 'link "O Senhor dos Anéis: As Duas Torres" [ref=e747] [cursor=pointer]':
+                - /url: /book-details.html?id=21
+            - paragraph [ref=e748]:
+              - generic [ref=e749]: 
+              - text: J.R.R. Tolkien
+            - paragraph [ref=e750]:
+              - generic [ref=e751]: 
+              - text: Fantasia
+            - paragraph [ref=e752]: Segundo volume da trilogia O Senhor dos Anéis, continua a jornada épica de Frodo e seus amigos enquanto enfrentam novos perigos e desafios na Terra Média.
+            - generic [ref=e754]:
+              - button " Adicionar à Cesta" [ref=e755] [cursor=pointer]:
+                - generic [ref=e756]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e757] [cursor=pointer]:
+                - generic [ref=e758]: 
+                - text: Ver Detalhes
+      - generic [ref=e654]:
+        - status [ref=e655]:
+          - generic [ref=e656]: Carregando...
+        - paragraph [ref=e657]: Carregando livros...
+      - navigation "Page navigation" [ref=e297]:
+        - list [ref=e298]
+    - contentinfo [ref=e306]:
+      - contentinfo [ref=e307]:
+        - generic [ref=e308]:
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - heading " Hub de Leitura" [level=5] [ref=e311]:
+                - generic [ref=e312]: 
+                - text: Hub de Leitura
+              - paragraph [ref=e313]:
+                - text: Facilitando o acesso ao Conhecimento.
+                - text: (Sistema fictício de treinamento para QA)
+              - generic [ref=e314]:
+                - link "" [ref=e315] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e316]: 
+                - link "" [ref=e317] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e318]: 
+                - link "" [ref=e319] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e320]: 
+                - link "" [ref=e321] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/fabio10
+                  - generic [ref=e322]: 
+            - generic [ref=e323]:
+              - heading "LINKS RÁPIDOS:" [level=6] [ref=e324]
+              - list [ref=e325]:
+                - listitem [ref=e326]:
+                  - link " Catálogo" [ref=e327] [cursor=pointer]:
+                    - /url: /catalog.html
+                    - generic [ref=e328]: 
+                    - text: Catálogo
+                - listitem [ref=e329]:
+                  - link " Minhas Reservas" [ref=e330] [cursor=pointer]:
+                    - /url: /dashboard.html
+                    - generic [ref=e331]: 
+                    - text: Minhas Reservas
+                - listitem [ref=e332]:
+                  - link " Minha Cesta" [ref=e333] [cursor=pointer]:
+                    - /url: /basket.html
+                    - generic [ref=e334]: 
+                    - text: Minha Cesta
+                - listitem [ref=e335]:
+                  - link " Ajuda" [ref=e336] [cursor=pointer]:
+                    - /url: index.html#contact
+                    - generic [ref=e337]: 
+                    - text: Ajuda
+            - generic [ref=e338]:
+              - heading "CONTATO:" [level=6] [ref=e339]
+              - list [ref=e340]:
+                - listitem [ref=e341]:
+                  - generic [ref=e342]: 
+                  - text: Biblioteca Central
+                - listitem [ref=e343]:
+                  - generic [ref=e344]: 
+                  - text: (11) 3333-4444
+                - listitem [ref=e345]:
+                  - generic [ref=e346]: 
+                  - text: contato@hubdeleitura.com
+                - listitem [ref=e347]:
+                  - generic [ref=e348]: 
+                  - text: "Seg-Sex: 8h às 18h"
+            - generic [ref=e349]:
+              - heading "HORÁRIOS:" [level=6] [ref=e350]
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e353]: "• Segunda:"
+                  - generic [ref=e354]: 8h-18h
+                - generic [ref=e355]:
+                  - generic [ref=e356]: "• Terça-Feira:"
+                  - generic [ref=e357]: 8h-20h
+                - generic [ref=e358]:
+                  - generic [ref=e359]: "• Sábado:"
+                  - generic [ref=e360]: 9h-15h
+                - generic [ref=e361]:
+                  - generic [ref=e362]: "• Domingo:"
+                  - generic [ref=e363]: Fechado
+          - separator [ref=e364]
+          - generic [ref=e365]:
+            - paragraph [ref=e367]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+            - generic [ref=e369]:
+              - text: Desenvolvido com
+              - generic [ref=e370]: 
+              - text: por
+              - link " Fábio Araújo" [ref=e371] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e372]: 
+                - text: Fábio Araújo
+  - text: 

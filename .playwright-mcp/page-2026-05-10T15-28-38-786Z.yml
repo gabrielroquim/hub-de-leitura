@@ -1,0 +1,449 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link "" [ref=e8] [cursor=pointer]:
+              - /url: /index.html
+              - generic [ref=e9]: 
+            - generic [ref=e10]:
+              - heading "Hub de Leitura" [level=1] [ref=e11]
+              - paragraph [ref=e12]: Seu Portal do Conhecimento
+          - text: 
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "HOME" [ref=e16] [cursor=pointer]:
+                - /url: /index.html
+            - listitem [ref=e17]:
+              - link "CESTA DE LIVROS 1" [ref=e373] [cursor=pointer]:
+                - /url: /basket.html
+                - text: CESTA DE LIVROS
+                - generic [ref=e19]: "1"
+            - listitem [ref=e20]:
+              - link " ENTRAR" [ref=e21] [cursor=pointer]:
+                - /url: /login.html
+                - generic [ref=e22]: 
+                - generic [ref=e23]: ENTRAR
+  - generic [ref=e24]:
+    - generic [ref=e27]:
+      - heading "Conheça Nosso Acervo" [level=2] [ref=e28]
+      - paragraph [ref=e29]: Explore, aprenda e transforme sua vida através da leitura.
+    - main [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e35]:
+          - generic [ref=e37]: 
+          - textbox "Buscar por título, autor ou ISBN…" [ref=e38]
+        - generic [ref=e39]:
+          - combobox [ref=e41]:
+            - option "Todas as Categorias" [selected]
+            - option "Biografia (1)"
+            - option "Estratégia (1)"
+            - option "Fantasia (5)"
+            - option "Ficção (7)"
+            - option "Ficção Clássica (1)"
+            - option "Geral (1)"
+            - option "Infantil (1)"
+            - option "Mistério (1)"
+            - option "Poesia (1)"
+            - option "Realismo Mágico (1)"
+            - option "Romance (3)"
+          - combobox [ref=e43]:
+            - option "Todas as Editoras" [selected]
+            - option "Companhia das Letras"
+            - option "Editora Agir"
+            - option "Editora Exemplo"
+            - option "Editora Intrínseca"
+            - option "Editora José Olympio"
+            - option "Editora Martin Claret"
+            - option "Editora Nova Fronteira"
+            - option "Editora Record"
+            - option "Editora Rocco"
+            - option "Editora Sextante"
+            - option "Editora do Autor"
+            - option "HarperCollins Brasil"
+          - combobox [ref=e45]:
+            - option "Todos os livros" [selected]
+            - option "Apenas disponíveis"
+            - option "Indisponíveis"
+      - text:  
+      - generic [ref=e48]:
+        - heading " Exibindo 12 de 23 livros" [level=5] [ref=e859]:
+          - generic [ref=e50]: 
+          - text: Exibindo 12 de 23 livros
+        - group "Visualização" [ref=e51]:
+          - button "" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: 
+          - button "" [ref=e54] [cursor=pointer]:
+            - generic [ref=e55]: 
+      - generic [ref=e56]:
+        - generic [ref=e861]:
+          - generic [ref=e862]:
+            - img "1984" [ref=e863]
+            - generic [ref=e865]: "4"
+          - generic [ref=e866]:
+            - heading "1984" [level=5] [ref=e867]:
+              - link "1984" [ref=e868] [cursor=pointer]:
+                - /url: /book-details.html?id=2
+            - paragraph [ref=e869]:
+              - generic [ref=e870]: 
+              - text: George Orwell
+            - paragraph [ref=e871]:
+              - generic [ref=e872]: 
+              - text: Ficção
+            - paragraph [ref=e873]: 1984 é um romance distópico que descreve um regime totalitário liderado pelo Grande Irmão. A história acompanha Winston Smith em sua luta contra a opressão e o controle do pensamento, levantando questões sobre liberdade e vigilância.
+            - generic [ref=e875]:
+              - button " Adicionar à Cesta" [ref=e876] [cursor=pointer]:
+                - generic [ref=e877]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e878] [cursor=pointer]:
+                - generic [ref=e879]: 
+                - text: Ver Detalhes
+        - generic [ref=e881]:
+          - generic [ref=e882]:
+            - img "A Arte da Guerra" [ref=e883]
+            - generic [ref=e885]: "6"
+          - generic [ref=e886]:
+            - heading "A Arte da Guerra" [level=5] [ref=e887]:
+              - link "A Arte da Guerra" [ref=e888] [cursor=pointer]:
+                - /url: /book-details.html?id=6
+            - paragraph [ref=e889]:
+              - generic [ref=e890]: 
+              - text: Sun Tzu
+            - paragraph [ref=e891]:
+              - generic [ref=e892]: 
+              - text: Estratégia
+            - paragraph [ref=e893]: A Arte da Guerra é um tratado militar chinês com ensinamentos sobre táticas, estratégias e inteligência. Seus princípios são aplicados não apenas em guerras, mas também em negócios, política e vida pessoal.
+            - generic [ref=e895]:
+              - button " Adicionar à Cesta" [ref=e896] [cursor=pointer]:
+                - generic [ref=e897]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e898] [cursor=pointer]:
+                - generic [ref=e899]: 
+                - text: Ver Detalhes
+        - generic [ref=e901]:
+          - generic [ref=e902]:
+            - img "A Divina Comédia" [ref=e903]
+            - generic [ref=e905]: "3"
+          - generic [ref=e906]:
+            - heading "A Divina Comédia" [level=5] [ref=e907]:
+              - link "A Divina Comédia" [ref=e908] [cursor=pointer]:
+                - /url: /book-details.html?id=17
+            - paragraph [ref=e909]:
+              - generic [ref=e910]: 
+              - text: Dante Alighieri
+            - paragraph [ref=e911]:
+              - generic [ref=e912]: 
+              - text: Poesia
+            - paragraph [ref=e913]: Dante viaja por Inferno, Purgatório e Paraíso, guiado por Virgílio e Beatriz, em uma das mais grandiosas obras da literatura mundial, repleta de alegorias e simbolismos.
+            - generic [ref=e915]:
+              - button " Adicionar à Cesta" [ref=e916] [cursor=pointer]:
+                - generic [ref=e917]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e918] [cursor=pointer]:
+                - generic [ref=e919]: 
+                - text: Ver Detalhes
+        - generic [ref=e921]:
+          - generic [ref=e922]:
+            - img "A Menina que Roubava Livros" [ref=e923]
+            - generic [ref=e925]: "7"
+          - generic [ref=e926]:
+            - heading "A Menina que Roubava Livros" [level=5] [ref=e927]:
+              - link "A Menina que Roubava Livros" [ref=e928] [cursor=pointer]:
+                - /url: /book-details.html?id=8
+            - paragraph [ref=e929]:
+              - generic [ref=e930]: 
+              - text: Markus Zusak
+            - paragraph [ref=e931]:
+              - generic [ref=e932]: 
+              - text: Ficção
+            - paragraph [ref=e933]: Durante a Segunda Guerra Mundial, Liesel encontra refúgio nos livros, enquanto a Morte narra sua história. Uma comovente homenagem ao poder das palavras e da literatura.
+            - generic [ref=e935]:
+              - button " Adicionar à Cesta" [ref=e936] [cursor=pointer]:
+                - generic [ref=e937]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e938] [cursor=pointer]:
+                - generic [ref=e939]: 
+                - text: Ver Detalhes
+        - generic [ref=e941]:
+          - generic [ref=e942]:
+            - img "A Metamorfose" [ref=e943]
+            - generic [ref=e945]: "5"
+          - generic [ref=e946]:
+            - heading "A Metamorfose" [level=5] [ref=e947]:
+              - link "A Metamorfose" [ref=e948] [cursor=pointer]:
+                - /url: /book-details.html?id=15
+            - paragraph [ref=e949]:
+              - generic [ref=e950]: 
+              - text: Franz Kafka
+            - paragraph [ref=e951]:
+              - generic [ref=e952]: 
+              - text: Ficção
+            - paragraph [ref=e953]: Gregor Samsa acorda transformado em um inseto gigante, e a história aborda temas como alienação, rejeição e identidade em uma narrativa surreal e simbólica.
+            - generic [ref=e955]:
+              - button " Adicionar à Cesta" [ref=e956] [cursor=pointer]:
+                - generic [ref=e957]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e958] [cursor=pointer]:
+                - generic [ref=e959]: 
+                - text: Ver Detalhes
+        - generic [ref=e961]:
+          - generic [ref=e962]:
+            - img "A Revolução dos Bichos" [ref=e963]
+            - generic [ref=e965]: "3"
+          - generic [ref=e966]:
+            - heading "A Revolução dos Bichos" [level=5] [ref=e967]:
+              - link "A Revolução dos Bichos" [ref=e968] [cursor=pointer]:
+                - /url: /book-details.html?id=4
+            - paragraph [ref=e969]:
+              - generic [ref=e970]: 
+              - text: George Orwell
+            - paragraph [ref=e971]:
+              - generic [ref=e972]: 
+              - text: Ficção
+            - paragraph [ref=e973]: Uma alegoria sobre o poder e a corrupção, A Revolução dos Bichos mostra como os ideais de uma revolução podem ser distorcidos. Os animais de uma fazenda tomam o controle, apenas para descobrir que a tirania pode mudar de forma.
+            - generic [ref=e975]:
+              - button " Adicionar à Cesta" [ref=e976] [cursor=pointer]:
+                - generic [ref=e977]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e978] [cursor=pointer]:
+                - generic [ref=e979]: 
+                - text: Ver Detalhes
+        - generic [ref=e981]:
+          - generic [ref=e982]:
+            - img "Cem Anos de Solidão" [ref=e983]
+            - generic [ref=e985]: "6"
+          - generic [ref=e986]:
+            - heading "Cem Anos de Solidão" [level=5] [ref=e987]:
+              - link "Cem Anos de Solidão" [ref=e988] [cursor=pointer]:
+                - /url: /book-details.html?id=13
+            - paragraph [ref=e989]:
+              - generic [ref=e990]: 
+              - text: Gabriel García Márquez
+            - paragraph [ref=e991]:
+              - generic [ref=e992]: 
+              - text: Realismo Mágico
+            - paragraph [ref=e993]: A saga da família Buendía em Macondo é uma narrativa envolvente que mistura realidade e fantasia. Obra-prima do realismo mágico e um marco da literatura latino-americana.
+            - generic [ref=e995]:
+              - button " Adicionar à Cesta" [ref=e996] [cursor=pointer]:
+                - generic [ref=e997]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e998] [cursor=pointer]:
+                - generic [ref=e999]: 
+                - text: Ver Detalhes
+        - generic [ref=e1001]:
+          - generic [ref=e1002]:
+            - img "Dom Casmurro" [ref=e1003]
+            - generic [ref=e1005]: "4"
+          - generic [ref=e1006]:
+            - heading "Dom Casmurro" [level=5] [ref=e1007]:
+              - link "Dom Casmurro" [ref=e1008] [cursor=pointer]:
+                - /url: /book-details.html?id=1
+            - paragraph [ref=e1009]:
+              - generic [ref=e1010]: 
+              - text: Machado de Assis
+            - paragraph [ref=e1011]:
+              - generic [ref=e1012]: 
+              - text: Ficção Clássica
+            - paragraph [ref=e1013]: Dom Casmurro é um dos mais importantes romances da literatura brasileira, narrado em primeira pessoa por Bentinho, que busca justificar seu ciúme e a suposta traição de Capitu. A obra explora temas como memória, dúvida e manipulação.
+            - generic [ref=e1015]:
+              - button " Adicionar à Cesta" [ref=e1016] [cursor=pointer]:
+                - generic [ref=e1017]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e1018] [cursor=pointer]:
+                - generic [ref=e1019]: 
+                - text: Ver Detalhes
+        - generic [ref=e1021]:
+          - generic [ref=e1022]:
+            - img "Dom Quixote" [ref=e1023]
+            - generic [ref=e1025]: "6"
+          - generic [ref=e1026]:
+            - heading "Dom Quixote" [level=5] [ref=e1027]:
+              - link "Dom Quixote" [ref=e1028] [cursor=pointer]:
+                - /url: /book-details.html?id=18
+            - paragraph [ref=e1029]:
+              - generic [ref=e1030]: 
+              - text: Miguel de Cervantes
+            - paragraph [ref=e1031]:
+              - generic [ref=e1032]: 
+              - text: Romance
+            - paragraph [ref=e1033]: Dom Quixote e Sancho Pança vivem aventuras hilárias e filosóficas na busca por justiça e cavalheirismo. Um marco da literatura ocidental, repleto de crítica social.
+            - generic [ref=e1035]:
+              - button " Adicionar à Cesta" [ref=e1036] [cursor=pointer]:
+                - generic [ref=e1037]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e1038] [cursor=pointer]:
+                - generic [ref=e1039]: 
+                - text: Ver Detalhes
+        - generic [ref=e1041]:
+          - generic [ref=e1042]:
+            - img "Harry Potter e a Pedra Filosofal" [ref=e1043]
+            - generic [ref=e1045]: "9"
+          - generic [ref=e1046]:
+            - heading "Harry Potter e a Pedra Filosofal" [level=5] [ref=e1047]:
+              - link "Harry Potter e a Pedra Filosofal" [ref=e1048] [cursor=pointer]:
+                - /url: /book-details.html?id=10
+            - paragraph [ref=e1049]:
+              - generic [ref=e1050]: 
+              - text: J.K. Rowling
+            - paragraph [ref=e1051]:
+              - generic [ref=e1052]: 
+              - text: Fantasia
+            - paragraph [ref=e1053]: O primeiro livro da saga Harry Potter apresenta o jovem bruxo que descobre seu passado mágico e embarca em aventuras na Escola de Magia de Hogwarts. Um clássico moderno da literatura infantojuvenil.
+            - generic [ref=e1055]:
+              - button " Adicionar à Cesta" [ref=e1056] [cursor=pointer]:
+                - generic [ref=e1057]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e1058] [cursor=pointer]:
+                - generic [ref=e1059]: 
+                - text: Ver Detalhes
+        - generic [ref=e1061]:
+          - generic [ref=e1062]:
+            - img "Hub de Leitura" [ref=e1063]
+            - generic [ref=e1065]: "1"
+          - generic [ref=e1066]:
+            - heading "Hub de Leitura" [level=5] [ref=e1067]:
+              - link "Hub de Leitura" [ref=e1068] [cursor=pointer]:
+                - /url: /book-details.html?id=23
+            - paragraph [ref=e1069]:
+              - generic [ref=e1070]: 
+              - text: Autor Exemplo
+            - paragraph [ref=e1071]:
+              - generic [ref=e1072]: 
+              - text: Geral
+            - paragraph [ref=e1073]: Livro de exemplo para demonstração do sistema Hub de Leitura. Contém informações básicas para testes e validação da aplicação.
+            - generic [ref=e1075]:
+              - button " Adicionar à Cesta" [ref=e1076] [cursor=pointer]:
+                - generic [ref=e1077]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e1078] [cursor=pointer]:
+                - generic [ref=e1079]: 
+                - text: Ver Detalhes
+        - generic [ref=e1081]:
+          - generic [ref=e1082]:
+            - img "O Alquimista" [ref=e1083]
+            - generic [ref=e1085]: "8"
+          - generic [ref=e1086]:
+            - heading "O Alquimista" [level=5] [ref=e1087]:
+              - link "O Alquimista" [ref=e1088] [cursor=pointer]:
+                - /url: /book-details.html?id=7
+            - paragraph [ref=e1089]:
+              - generic [ref=e1090]: 
+              - text: Paulo Coelho
+            - paragraph [ref=e1091]:
+              - generic [ref=e1092]: 
+              - text: Ficção
+            - paragraph [ref=e1093]: O Alquimista narra a jornada espiritual de Santiago, um jovem pastor que parte em busca de um tesouro. A obra aborda temas como destino, sonhos e propósito de vida, tornando-se um fenômeno mundial.
+            - generic [ref=e1095]:
+              - button " Adicionar à Cesta" [ref=e1096] [cursor=pointer]:
+                - generic [ref=e1097]: 
+                - text: Adicionar à Cesta
+              - button " Ver Detalhes" [ref=e1098] [cursor=pointer]:
+                - generic [ref=e1099]: 
+                - text: Ver Detalhes
+      - generic [ref=e654]:
+        - status [ref=e655]:
+          - generic [ref=e656]: Carregando...
+        - paragraph [ref=e657]: Carregando livros...
+      - navigation "Page navigation" [ref=e297]:
+        - list [ref=e298]:
+          - listitem [ref=e1100]:
+            - link "1" [ref=e1101] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1102]:
+            - link "2" [ref=e1103] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1104]:
+            - link "Próximo " [ref=e1105] [cursor=pointer]:
+              - /url: "#"
+              - text: Próximo
+              - generic [ref=e1106]: 
+    - contentinfo [ref=e306]:
+      - contentinfo [ref=e307]:
+        - generic [ref=e308]:
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - heading " Hub de Leitura" [level=5] [ref=e311]:
+                - generic [ref=e312]: 
+                - text: Hub de Leitura
+              - paragraph [ref=e313]:
+                - text: Facilitando o acesso ao Conhecimento.
+                - text: (Sistema fictício de treinamento para QA)
+              - generic [ref=e314]:
+                - link "" [ref=e315] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e316]: 
+                - link "" [ref=e317] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e318]: 
+                - link "" [ref=e319] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e320]: 
+                - link "" [ref=e321] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/fabio10
+                  - generic [ref=e322]: 
+            - generic [ref=e323]:
+              - heading "LINKS RÁPIDOS:" [level=6] [ref=e324]
+              - list [ref=e325]:
+                - listitem [ref=e326]:
+                  - link " Catálogo" [ref=e327] [cursor=pointer]:
+                    - /url: /catalog.html
+                    - generic [ref=e328]: 
+                    - text: Catálogo
+                - listitem [ref=e329]:
+                  - link " Minhas Reservas" [ref=e330] [cursor=pointer]:
+                    - /url: /dashboard.html
+                    - generic [ref=e331]: 
+                    - text: Minhas Reservas
+                - listitem [ref=e332]:
+                  - link " Minha Cesta" [ref=e333] [cursor=pointer]:
+                    - /url: /basket.html
+                    - generic [ref=e334]: 
+                    - text: Minha Cesta
+                - listitem [ref=e335]:
+                  - link " Ajuda" [ref=e336] [cursor=pointer]:
+                    - /url: index.html#contact
+                    - generic [ref=e337]: 
+                    - text: Ajuda
+            - generic [ref=e338]:
+              - heading "CONTATO:" [level=6] [ref=e339]
+              - list [ref=e340]:
+                - listitem [ref=e341]:
+                  - generic [ref=e342]: 
+                  - text: Biblioteca Central
+                - listitem [ref=e343]:
+                  - generic [ref=e344]: 
+                  - text: (11) 3333-4444
+                - listitem [ref=e345]:
+                  - generic [ref=e346]: 
+                  - text: contato@hubdeleitura.com
+                - listitem [ref=e347]:
+                  - generic [ref=e348]: 
+                  - text: "Seg-Sex: 8h às 18h"
+            - generic [ref=e349]:
+              - heading "HORÁRIOS:" [level=6] [ref=e350]
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e353]: "• Segunda:"
+                  - generic [ref=e354]: 8h-18h
+                - generic [ref=e355]:
+                  - generic [ref=e356]: "• Terça-Feira:"
+                  - generic [ref=e357]: 8h-20h
+                - generic [ref=e358]:
+                  - generic [ref=e359]: "• Sábado:"
+                  - generic [ref=e360]: 9h-15h
+                - generic [ref=e361]:
+                  - generic [ref=e362]: "• Domingo:"
+                  - generic [ref=e363]: Fechado
+          - separator [ref=e364]
+          - generic [ref=e365]:
+            - paragraph [ref=e367]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+            - generic [ref=e369]:
+              - text: Desenvolvido com
+              - generic [ref=e370]: 
+              - text: por
+              - link " Fábio Araújo" [ref=e371] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e372]: 
+                - text: Fábio Araújo
+  - text: 
