@@ -59,6 +59,11 @@ web_modules/
 # Optional REPL history
 .node_repl_history
 
+# Playwright traces, snapshots e logs
+*.yml
+*.log
+.playwright-cli/
+
 # Output of 'npm pack'
 *.tgz
 
@@ -144,3 +149,10 @@ vite.config.ts.timestamp-*
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Ignorar imagens e relatórios do Allure
+*.jpg
+*.jpeg
+*.png
+allure-report/
+allure-results/

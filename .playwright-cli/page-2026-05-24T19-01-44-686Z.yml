@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link "" [ref=e8] [cursor=pointer]:
+              - /url: /index.html
+              - generic [ref=e9]: 
+            - generic [ref=e10]:
+              - heading "Hub de Leitura" [level=1] [ref=e11]
+              - paragraph [ref=e12]: Seu Portal do Conhecimento
+          - text: 
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "HOME" [ref=e16] [cursor=pointer]:
+                - /url: /index.html
+            - listitem [ref=e17]:
+              - link "CESTA DE LIVROS 1" [ref=e151] [cursor=pointer]:
+                - /url: /basket.html
+                - text: CESTA DE LIVROS
+                - generic [ref=e19]: "1"
+            - listitem [ref=e20]:
+              - link " ENTRAR" [ref=e21] [cursor=pointer]:
+                - /url: /login.html
+                - generic [ref=e22]: 
+                - generic [ref=e23]: ENTRAR
+  - generic [ref=e24]:
+    - generic [ref=e152]:
+      - generic [ref=e153]: 
+      - text: Livro adicionado à cesta com sucesso!
+    - main [ref=e25]:
+      - navigation "breadcrumb" [ref=e26]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - link "Home" [ref=e29] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e30]:
+            - text: /
+            - link "Catálogo" [ref=e31] [cursor=pointer]:
+              - /url: /catalog.html
+          - listitem [ref=e32]: / Dom Casmurro
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - img "Dom Casmurro" [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e40]:
+              - generic [ref=e41]: 
+              - text: Disponível para reserva
+            - generic [ref=e42]:
+              - button " Adicionado!" [disabled]:
+                - generic: 
+                - text: Adicionado!
+              - link " Ver Cesta" [ref=e45] [cursor=pointer]:
+                - /url: /basket.html
+                - generic [ref=e46]: 
+                - text: Ver Cesta
+              - button " Voltar ao catálogo" [ref=e47] [cursor=pointer]:
+                - generic [ref=e48]: 
+                - text: Voltar ao catálogo
+        - generic [ref=e51]:
+          - heading "Dom Casmurro" [level=1] [ref=e52]
+          - paragraph [ref=e53]:
+            - generic [ref=e54]: 
+            - text: Por Machado de Assis
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - heading " Informações" [level=6] [ref=e57]:
+                - generic [ref=e58]: 
+                - text: Informações
+              - list [ref=e59]:
+                - listitem [ref=e60]:
+                  - strong [ref=e61]: "ISBN:"
+                  - text: 978-85-359-0277-5
+                - listitem [ref=e62]:
+                  - strong [ref=e63]: "Editora:"
+                  - text: Companhia das Letras
+                - listitem [ref=e64]:
+                  - strong [ref=e65]: "Categoria:"
+                  - text: Ficção Clássica
+                - listitem [ref=e66]:
+                  - strong [ref=e67]: "Idioma:"
+                  - text: Português
+            - generic [ref=e68]:
+              - heading " Detalhes" [level=6] [ref=e69]:
+                - generic [ref=e70]: 
+                - text: Detalhes
+              - list [ref=e71]:
+                - listitem [ref=e72]:
+                  - strong [ref=e73]: "Ano:"
+                  - text: "2008"
+                - listitem [ref=e74]:
+                  - strong [ref=e75]: "Páginas:"
+                  - text: 256 páginas
+                - listitem [ref=e76]:
+                  - strong [ref=e77]: "Formato:"
+                  - text: Físico
+                - listitem [ref=e78]:
+                  - strong [ref=e79]: "Exemplares:"
+                  - text: 4 de 5 disponíveis
+          - generic [ref=e80]:
+            - heading " Descrição" [level=6] [ref=e81]:
+              - generic [ref=e82]: 
+              - text: Descrição
+            - paragraph [ref=e83]: Dom Casmurro é um dos mais importantes romances da literatura brasileira, narrado em primeira pessoa por Bentinho, que busca justificar seu ciúme e a suposta traição de Capitu. A obra explora temas como memória, dúvida e manipulação.
+          - text:  
+      - text: 
+    - contentinfo [ref=e84]:
+      - contentinfo [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - heading " Hub de Leitura" [level=5] [ref=e89]:
+                - generic [ref=e90]: 
+                - text: Hub de Leitura
+              - paragraph [ref=e91]:
+                - text: Facilitando o acesso ao Conhecimento.
+                - text: (Sistema fictício de treinamento para QA)
+              - generic [ref=e92]:
+                - link "" [ref=e93] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e94]: 
+                - link "" [ref=e95] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e96]: 
+                - link "" [ref=e97] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=e98]: 
+                - link "" [ref=e99] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/fabio10
+                  - generic [ref=e100]: 
+            - generic [ref=e101]:
+              - heading "LINKS RÁPIDOS:" [level=6] [ref=e102]
+              - list [ref=e103]:
+                - listitem [ref=e104]:
+                  - link " Catálogo" [ref=e105] [cursor=pointer]:
+                    - /url: /catalog.html
+                    - generic [ref=e106]: 
+                    - text: Catálogo
+                - listitem [ref=e107]:
+                  - link " Minhas Reservas" [ref=e108] [cursor=pointer]:
+                    - /url: /dashboard.html
+                    - generic [ref=e109]: 
+                    - text: Minhas Reservas
+                - listitem [ref=e110]:
+                  - link " Minha Cesta" [ref=e111] [cursor=pointer]:
+                    - /url: /basket.html
+                    - generic [ref=e112]: 
+                    - text: Minha Cesta
+                - listitem [ref=e113]:
+                  - link " Ajuda" [ref=e114] [cursor=pointer]:
+                    - /url: index.html#contact
+                    - generic [ref=e115]: 
+                    - text: Ajuda
+            - generic [ref=e116]:
+              - heading "CONTATO:" [level=6] [ref=e117]
+              - list [ref=e118]:
+                - listitem [ref=e119]:
+                  - generic [ref=e120]: 
+                  - text: Biblioteca Central
+                - listitem [ref=e121]:
+                  - generic [ref=e122]: 
+                  - text: (11) 3333-4444
+                - listitem [ref=e123]:
+                  - generic [ref=e124]: 
+                  - text: contato@hubdeleitura.com
+                - listitem [ref=e125]:
+                  - generic [ref=e126]: 
+                  - text: "Seg-Sex: 8h às 18h"
+            - generic [ref=e127]:
+              - heading "HORÁRIOS:" [level=6] [ref=e128]
+              - generic [ref=e129]:
+                - generic [ref=e130]:
+                  - generic [ref=e131]: "• Segunda:"
+                  - generic [ref=e132]: 8h-18h
+                - generic [ref=e133]:
+                  - generic [ref=e134]: "• Terça-Feira:"
+                  - generic [ref=e135]: 8h-20h
+                - generic [ref=e136]:
+                  - generic [ref=e137]: "• Sábado:"
+                  - generic [ref=e138]: 9h-15h
+                - generic [ref=e139]:
+                  - generic [ref=e140]: "• Domingo:"
+                  - generic [ref=e141]: Fechado
+          - separator [ref=e142]
+          - generic [ref=e143]:
+            - paragraph [ref=e145]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+            - generic [ref=e147]:
+              - text: Desenvolvido com
+              - generic [ref=e148]: 
+              - text: por
+              - link " Fábio Araújo" [ref=e149] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e150]: 
+                - text: Fábio Araújo

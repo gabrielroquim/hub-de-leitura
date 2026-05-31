@@ -1,0 +1,182 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - heading "Cadastre-se no Hub de Leitura" [level=2] [ref=e5]
+    - paragraph [ref=e6]: Crie sua conta e mergulhe em um universo de histórias.
+  - banner [ref=e7]:
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "" [ref=e12] [cursor=pointer]:
+            - /url: /index.html
+            - generic [ref=e13]: 
+          - generic [ref=e14]:
+            - heading "Hub de Leitura" [level=1] [ref=e15]
+            - paragraph [ref=e16]: Seu Portal do Conhecimento
+        - button "" [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]: 
+        - text: 
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - heading "Preencha todos os campos para Criar Conta" [level=5] [ref=e22]
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: 
+            - text: Nome Completo *
+          - textbox " Nome Completo *" [ref=e27]:
+            - /placeholder: Seu nome completo
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: 
+            - text: Email *
+          - textbox " Email *" [ref=e31]:
+            - /placeholder: seu@email.com
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]: 
+            - text: Telefone
+          - textbox " Telefone" [ref=e35]:
+            - /placeholder: (11) 99999-9999
+          - generic [ref=e36]: Opcional - para contato em caso de emergência
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]: 
+            - text: Senha *
+          - generic [ref=e40]:
+            - textbox " Senha *" [ref=e41]:
+              - /placeholder: Crie uma senha segura
+            - button "" [ref=e42] [cursor=pointer]:
+              - generic [ref=e43]: 
+          - generic [ref=e45]: Mínimo 6 caracteres
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - generic [ref=e48]: 
+            - text: Confirmar Senha *
+          - textbox " Confirmar Senha *" [ref=e49]:
+            - /placeholder: Confirme sua senha
+        - generic [ref=e50]:
+          - checkbox "Li e concordo com os termos de uso da biblioteca" [ref=e51]
+          - generic [ref=e52]:
+            - text: Li e concordo com os
+            - link "termos de uso" [ref=e53] [cursor=pointer]:
+              - /url: /terms.html
+            - text: da biblioteca
+        - button " Criar Conta" [ref=e55] [cursor=pointer]:
+          - generic [ref=e56]: 
+          - text: Criar Conta
+      - generic [ref=e57]:
+        - heading " Benefícios da sua conta:" [level=6] [ref=e58]:
+          - generic [ref=e59]: 
+          - text: "Benefícios da sua conta:"
+        - generic [ref=e60]:
+          - generic [ref=e61]: 
+          - generic [ref=e62]: Reserve livros com facilidade
+        - generic [ref=e63]:
+          - generic [ref=e64]: 
+          - generic [ref=e65]: Acompanhe seu histórico de leitura
+        - generic [ref=e66]:
+          - generic [ref=e67]: 
+          - generic [ref=e68]: Receba notificações de prazos
+        - generic [ref=e69]:
+          - generic [ref=e70]: 
+          - generic [ref=e71]: Defina metas de leitura
+      - generic [ref=e73]:
+        - separator [ref=e74]
+        - paragraph [ref=e75]: Já tem uma conta?
+        - link " Fazer Login" [ref=e76] [cursor=pointer]:
+          - /url: /login.html
+          - generic [ref=e77]: 
+          - text: Fazer Login
+        - link " Voltar ao Catálogo" [ref=e78] [cursor=pointer]:
+          - /url: /catalog.html
+          - generic [ref=e79]: 
+          - text: Voltar ao Catálogo
+    - text: 
+  - contentinfo [ref=e80]:
+    - contentinfo [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - heading " Hub de Leitura" [level=5] [ref=e85]:
+              - generic [ref=e86]: 
+              - text: Hub de Leitura
+            - paragraph [ref=e87]:
+              - text: Facilitando o acesso ao Conhecimento.
+              - text: (Sistema fictício de treinamento para QA)
+            - generic [ref=e88]:
+              - link "" [ref=e89] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e90]: 
+              - link "" [ref=e91] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e92]: 
+              - link "" [ref=e93] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e94]: 
+              - link "" [ref=e95] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e96]: 
+          - generic [ref=e97]:
+            - heading "LINKS RÁPIDOS:" [level=6] [ref=e98]
+            - list [ref=e99]:
+              - listitem [ref=e100]:
+                - link " Catálogo" [ref=e101] [cursor=pointer]:
+                  - /url: /catalog.html
+                  - generic [ref=e102]: 
+                  - text: Catálogo
+              - listitem [ref=e103]:
+                - link " Minhas Reservas" [ref=e104] [cursor=pointer]:
+                  - /url: /dashboard.html
+                  - generic [ref=e105]: 
+                  - text: Minhas Reservas
+              - listitem [ref=e106]:
+                - link " Minha Cesta" [ref=e107] [cursor=pointer]:
+                  - /url: /basket.html
+                  - generic [ref=e108]: 
+                  - text: Minha Cesta
+              - listitem [ref=e109]:
+                - link " Ajuda" [ref=e110] [cursor=pointer]:
+                  - /url: index.html#contact
+                  - generic [ref=e111]: 
+                  - text: Ajuda
+          - generic [ref=e112]:
+            - heading "CONTATO:" [level=6] [ref=e113]
+            - list [ref=e114]:
+              - listitem [ref=e115]:
+                - generic [ref=e116]: 
+                - text: Biblioteca Central
+              - listitem [ref=e117]:
+                - generic [ref=e118]: 
+                - text: (11) 3333-4444
+              - listitem [ref=e119]:
+                - generic [ref=e120]: 
+                - text: contato@hubdeleitura.com
+              - listitem [ref=e121]:
+                - generic [ref=e122]: 
+                - text: "Seg-Sex: 8h às 18h"
+          - generic [ref=e123]:
+            - heading "HORÁRIOS:" [level=6] [ref=e124]
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - generic [ref=e127]: "• Segunda:"
+                - generic [ref=e128]: 8h-18h
+              - generic [ref=e129]:
+                - generic [ref=e130]: "• Terça-Feira:"
+                - generic [ref=e131]: 8h-20h
+              - generic [ref=e132]:
+                - generic [ref=e133]: "• Sábado:"
+                - generic [ref=e134]: 9h-15h
+              - generic [ref=e135]:
+                - generic [ref=e136]: "• Domingo:"
+                - generic [ref=e137]: Fechado
+        - separator [ref=e138]
+        - generic [ref=e139]:
+          - paragraph [ref=e141]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+          - generic [ref=e143]:
+            - text: Desenvolvido com
+            - generic [ref=e144]: 
+            - text: por
+            - link " Fábio Araújo" [ref=e145] [cursor=pointer]:
+              - /url: https://linkedin.com/in/fabio10
+              - generic [ref=e146]: 
+              - text: Fábio Araújo

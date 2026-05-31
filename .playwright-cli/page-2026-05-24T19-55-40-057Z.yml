@@ -1,0 +1,160 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - heading "Bem-vindo ao Hub de Leitura" [level=2] [ref=e5]
+    - paragraph [ref=e6]: Faça seu login para explorar seu universo literário.
+  - banner [ref=e7]:
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "" [ref=e12] [cursor=pointer]:
+            - /url: /index.html
+            - generic [ref=e13]: 
+          - generic [ref=e14]:
+            - heading "Hub de Leitura" [level=1] [ref=e15]
+            - paragraph [ref=e16]: Seu Portal do Conhecimento
+        - button "" [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]: 
+        - text: 
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - heading "Entre com sua conta" [level=2] [ref=e22]
+        - paragraph [ref=e23]: Para usufruir o melhor do nosso portal
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27]: 
+            - text: Email *
+          - textbox " Email *" [ref=e28]:
+            - /placeholder: seu@email.com
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e31]: 
+            - text: Senha *
+          - generic [ref=e32]:
+            - textbox " Senha *" [ref=e33]:
+              - /placeholder: Sua senha
+            - button "" [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: 
+        - button " Entrar" [ref=e37] [cursor=pointer]:
+          - generic [ref=e38]: 
+          - text: Entrar
+      - generic [ref=e39]:
+        - heading " Contas para Testes QA" [level=6] [ref=e40]:
+          - generic [ref=e41]: 
+          - text: Contas para Testes QA
+        - text: "Use estas contas para testar funcionalidades:"
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - strong [ref=e45]: admin@biblioteca.com
+              - generic [ref=e46]: Admin
+            - text: "Senha: admin123"
+          - button "Usar" [ref=e47] [cursor=pointer]
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - strong [ref=e51]: usuario@teste.com
+              - generic [ref=e52]: Usuário
+            - text: "Senha: user123"
+          - button "Usar" [ref=e53] [cursor=pointer]
+      - generic [ref=e55]:
+        - link " Voltar ao Catálogo" [ref=e56] [cursor=pointer]:
+          - /url: /catalog.html
+          - generic [ref=e57]: 
+          - text: Voltar ao Catálogo
+        - link " Criar conta" [ref=e58] [cursor=pointer]:
+          - /url: /register.html
+          - generic [ref=e59]: 
+          - text: Criar conta
+        - generic [ref=e60]:
+          - generic [ref=e61]: 
+          - text: Sistema de treinamento para QA - Dados são apenas para demonstração
+  - contentinfo [ref=e62]:
+    - contentinfo [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - heading " Hub de Leitura" [level=5] [ref=e67]:
+              - generic [ref=e68]: 
+              - text: Hub de Leitura
+            - paragraph [ref=e69]:
+              - text: Facilitando o acesso ao Conhecimento.
+              - text: (Sistema fictício de treinamento para QA)
+            - generic [ref=e70]:
+              - link "" [ref=e71] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e72]: 
+              - link "" [ref=e73] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e74]: 
+              - link "" [ref=e75] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e76]: 
+              - link "" [ref=e77] [cursor=pointer]:
+                - /url: https://linkedin.com/in/fabio10
+                - generic [ref=e78]: 
+          - generic [ref=e79]:
+            - heading "LINKS RÁPIDOS:" [level=6] [ref=e80]
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - link " Catálogo" [ref=e83] [cursor=pointer]:
+                  - /url: /catalog.html
+                  - generic [ref=e84]: 
+                  - text: Catálogo
+              - listitem [ref=e85]:
+                - link " Minhas Reservas" [ref=e86] [cursor=pointer]:
+                  - /url: /dashboard.html
+                  - generic [ref=e87]: 
+                  - text: Minhas Reservas
+              - listitem [ref=e88]:
+                - link " Minha Cesta" [ref=e89] [cursor=pointer]:
+                  - /url: /basket.html
+                  - generic [ref=e90]: 
+                  - text: Minha Cesta
+              - listitem [ref=e91]:
+                - link " Ajuda" [ref=e92] [cursor=pointer]:
+                  - /url: index.html#contact
+                  - generic [ref=e93]: 
+                  - text: Ajuda
+          - generic [ref=e94]:
+            - heading "CONTATO:" [level=6] [ref=e95]
+            - list [ref=e96]:
+              - listitem [ref=e97]:
+                - generic [ref=e98]: 
+                - text: Biblioteca Central
+              - listitem [ref=e99]:
+                - generic [ref=e100]: 
+                - text: (11) 3333-4444
+              - listitem [ref=e101]:
+                - generic [ref=e102]: 
+                - text: contato@hubdeleitura.com
+              - listitem [ref=e103]:
+                - generic [ref=e104]: 
+                - text: "Seg-Sex: 8h às 18h"
+          - generic [ref=e105]:
+            - heading "HORÁRIOS:" [level=6] [ref=e106]
+            - generic [ref=e107]:
+              - generic [ref=e108]:
+                - generic [ref=e109]: "• Segunda:"
+                - generic [ref=e110]: 8h-18h
+              - generic [ref=e111]:
+                - generic [ref=e112]: "• Terça-Feira:"
+                - generic [ref=e113]: 8h-20h
+              - generic [ref=e114]:
+                - generic [ref=e115]: "• Sábado:"
+                - generic [ref=e116]: 9h-15h
+              - generic [ref=e117]:
+                - generic [ref=e118]: "• Domingo:"
+                - generic [ref=e119]: Fechado
+        - separator [ref=e120]
+        - generic [ref=e121]:
+          - paragraph [ref=e123]: © 2025 Hub de Leitura - Sistema de Treinamento QA
+          - generic [ref=e125]:
+            - text: Desenvolvido com
+            - generic [ref=e126]: 
+            - text: por
+            - link " Fábio Araújo" [ref=e127] [cursor=pointer]:
+              - /url: https://linkedin.com/in/fabio10
+              - generic [ref=e128]: 
+              - text: Fábio Araújo
